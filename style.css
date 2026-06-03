@@ -1,0 +1,22 @@
+table{
+    background-color: #b86f25;
+}
+body{
+    background-color: #ece2e2;
+    padding: 20px;
+}
+.navbar a{
+    display: flex;
+    margin-bottom: 30px;
+}
+.form-container {
+    background-color: white;
+    padding: 30px;
+    max-width: 400px;
+}
+.form-container h2 {
+    font-size: 18px;
+    margin-bottom: 25px;
+    color: #333;
+    font-weight: n
+}
